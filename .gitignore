@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 本地运行产物（含本机绝对路径与调试转储）
+outputs/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini

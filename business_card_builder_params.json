@@ -1,0 +1,29 @@
+{
+  "card_size": {
+    "width": 340,
+    "height": 204,
+    "width_mm": 90,
+    "height_mm": 54,
+    "orientation": "horizontal_card",
+    "safe_margin": 18,
+    "bleed": 11
+  },
+  "name": "张明",
+  "title": "品牌顾问",
+  "company": "星河品牌咨询",
+  "phone": "138-0000-0000",
+  "email": "hello@example.com",
+  "website": "www.example.com",
+  "slogan": "让品牌被清楚记住",
+  "style": {
+    "primary_color": "#123456",
+    "accent_color": "#E86A33",
+    "background_color": "#FFFFFF",
+    "font_family": "微软雅黑",
+    "style_keywords": ["商务", "极简"]
+  },
+  "icon_policy": {
+    "contact_icons": true
+  },
+  "uncertainties": []
+}

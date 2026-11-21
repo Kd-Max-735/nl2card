@@ -1,0 +1,5 @@
+python-pptx>=1.0
+Pillow>=10.0
+pytest>=8.0
+# 仅在需要把 HTML 渲染成 PNG 时使用；装完需执行一次：playwright install chromium
+playwright>=1.40

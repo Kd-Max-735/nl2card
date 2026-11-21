@@ -1,0 +1,52 @@
+{
+  "card_size": {
+    "width": 340,
+    "height": 204,
+    "width_mm": 90,
+    "height_mm": 54,
+    "orientation": "horizontal_card",
+    "safe_margin": 18,
+    "bleed": 11
+  },
+  "layout_style": "black_white_double_sided",
+  "style": {
+    "primary_color": "#000000",
+    "secondary_color": "#D9D9D9",
+    "background_color": "#FFFFFF",
+    "text_color": "#000000",
+    "muted_text_color": "#555555",
+    "accent_color": "#000000",
+    "font_family": "Microsoft YaHei",
+    "style_keywords": ["简洁", "商务", "黑白极简", "clean", "minimal", "corporate"]
+  },
+  "design": {
+    "background_texture": "light_gray_diagonal_stripes",
+    "diagonal_stripes": true,
+    "horizontal_line": true,
+    "geometric_block": "left_black_block",
+    "line_color": "#000000",
+    "stripe_color": "#E6E6E6"
+  },
+  "icon_policy": {
+    "contact_icons": true,
+    "force_contact_icons": true
+  },
+  "sides": {
+    "front": {
+      "name": "WPS Docer",
+      "title": "Chief Executive Officer",
+      "company": "KINGSOFT OFFICE -PROFESSIONAL-",
+      "phone": "13800000001",
+      "email": "Kingsoft@docer.com",
+      "address": "Building 1, Zhuhai Jinshan Software Park",
+      "website": "http://www.docer.com",
+      "logo_usage": "placeholder"
+    },
+    "back": {
+      "company": "KINGSOFT OFFICE -PROFESSIONAL-",
+      "logo_usage": "placeholder",
+      "qr_usage": "placeholder"
+    }
+  },
+  "uncertainties": []
+}
